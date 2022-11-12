@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Kipshidze"
+  given-names: "Nodar"
+  orcid: "https://orcid.org/0000-0003-1748-6679"
+- family-names: "Dursoeau"
+  given-names: "Brenice"
+  orcid: "https://orcid.org/0000-0003-2443-2070"
+title: "State-Level Monkeypox Cases and Vaccine by Race/Ethnicity"
+version: 1.0.0
+date-released: 2022-11-12
+url: "https://github.com/nodar-k/monkeypox_equity"
