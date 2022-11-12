@@ -3,7 +3,7 @@ There should be three files you can download:
 | File | Description |
 | ---- | ----------- |
 | `DATA_WITH_LINKS.CSV` | A complete listing of all 50 states with the links that were accessed to download the data. |
-| `MPOX_DATA_TABLE.CSV` | The dataset that you would use in R, which is subsetted to only staets with complete data needed for the analysis. |
+| `MPOX_DATA_TABLE.CSV` | The dataset that you would use in R, which is subsetted to only states with complete data needed for the analysis. |
 | `DescriptStats.R` | The R script that will transformed the wide format dataset into the format needed to run the analyses. |
 
 ## Codebook
