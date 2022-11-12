@@ -5,9 +5,7 @@
 #################
 
 # Load libraries
-library(ggplot2)
 library(tidyr)
-library(DescTools)
 
 # Load data
 monkeypox_dat = read.csv("MPOX_DATA_TABLE.csv", header=TRUE)
